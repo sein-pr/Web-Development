@@ -1,0 +1,18 @@
+.blue-rectangle{
+  width: 500px;
+  height: 300px;
+  background-color: blue;
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+
+.red-circle{
+  border-radius: 50%;
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 150px;
+  left: 200px;
+}
